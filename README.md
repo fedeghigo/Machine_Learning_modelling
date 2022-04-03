@@ -1,2 +1,14 @@
-# Machine_Learning_modelling
+# Machine Learning Modelling
 Machine Learning Algorithm Repo 
+
+
+## Introduction 
+
+Machine Learning repo with Deep Dive on common modelling and Usefull technics tool
+
+
+## Dependecies 
+
+- Numpy 
+- Pandas 
+- Matplotlib
